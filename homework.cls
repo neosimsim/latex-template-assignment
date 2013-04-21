@@ -106,6 +106,7 @@
 \makeatletter
 	\usepackage{fancyhdr}
 	\pagestyle{fancy}
+	\setlength{\headheight}{15pt}
 	\renewcommand{\footrulewidth}{\headrulewidth}
 	\fancyhf{}
 	\fancyhead[L]{%
