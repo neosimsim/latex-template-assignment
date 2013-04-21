@@ -48,7 +48,7 @@
 \def \maketitle {%
 	% The goupinformation on the top left.
 	{\raggedright
-	\begin{minipage}[t]{0.5\textwidth}
+	\begin{minipage}[t]{0.45\textwidth}
 		\vspace{0pt}
 		\begin{tabular}{@{}lr}
 			\@members\\
@@ -70,7 +70,7 @@
 		\fi	
 	\end{minipage}
 	% The information about the institute on the top right.
-	\begin{minipage}[t]{0.5\textwidth}
+	\begin{minipage}[t]{0.45\textwidth}
 		\vspace{0pt}
 		\begin{flushright}
 			\ifx \@institute \@empty
