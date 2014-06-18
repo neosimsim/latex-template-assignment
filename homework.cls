@@ -1,5 +1,6 @@
 % ib-assignment.cls
 % Copyright 2009 Ankur Dave <ankurdave@gmail.com>
+% Modified  2013 Alexander Ben Nasrallah <alexander.nasrallah@gmail.com>
 % 
 % Licensed under the CC-GNU GPL version 2.0 or later.
 % See http://creativecommons.org/licenses/GPL/2.0
